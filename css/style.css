@@ -1,0 +1,44 @@
+body{
+  margin: 0;
+}
+/*.jumbotron{
+  background-image: url(../images/bambo.jpeg);
+  margin-top: -20px;
+  height: 400px;
+  text-align:center;
+  padding-top: 180px;
+  color: white;
+}*/
+
+
+.jumbotron {
+  margin-top: -20px;
+  background-image:url(../images/bambo.jpeg);
+  background-size: cover;
+  height:300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom:1px solid #ff6a00;
+  text-align: center;
+}
+
+.about {
+  text-align: center;
+  padding: 40px;
+}
+
+.about h2{
+  padding-bottom: 15px;
+}
+.icon{
+  font-size: 60px;
+  padding-top: 30px;
+  background: #333;
+  color: white;
+  padding:20px;
+  border-radius: 50%;
+}
+/*.jumbotron .container {
+  position:relative;
+  top:50px;
+}*/
